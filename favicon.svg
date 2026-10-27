@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Círculo Vermelho de Fundo -->
+  <circle cx="50" cy="50" r="48" fill="#dc2626"/>
+  
+  <!-- Silhueta da Caveira Preta -->
+  <!-- Crânio e Maxilar integrados -->
+  <path d="M 50 16
+           C 31 16, 21 28, 21 44
+           C 21 54, 27 60, 33 64
+           C 34 66, 35 78, 36 82
+           C 37 84, 63 84, 64 82
+           C 65 78, 66 66, 67 64
+           C 73 60, 79 54, 79 44
+           C 79 28, 69 16, 50 16 Z" 
+        fill="#0c0d10" />
+
+  <!-- Órbitas Oculares (Recortes no formato) -->
+  <ellipse cx="38" cy="45" rx="7" ry="9" fill="#dc2626" transform="rotate(-6 38 45)"/>
+  <ellipse cx="62" cy="45" rx="7" ry="9" fill="#dc2626" transform="rotate(6 62 45)"/>
+
+  <!-- Cavidade Nasal em Triângulo Invertido -->
+  <path d="M 50 54 L 46 64 C 47 65.5, 53 65.5, 54 64 Z" fill="#dc2626"/>
+
+  <!-- Separação dos Dentes -->
+  <line x1="43" y1="72" x2="43" y2="83" stroke="#dc2626" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="50" y1="71" x2="50" y2="83" stroke="#dc2626" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="57" y1="72" x2="57" y2="83" stroke="#dc2626" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

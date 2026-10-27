@@ -1,0 +1,11 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Agent / Tooling local directories
+.agents/
+.taste-skill/
+
+# Raw unpacked camera assets (site uses images/)
+Photos-1-001/
