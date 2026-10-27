@@ -94,4 +94,4 @@ Este projeto está sob a licença [MIT](LICENSE).
 
 ---
 
-Feito com dedicação para **Lelê Tattoo** · Morro Agudo – SP.
+Desenvolvido por [**Luis Cereda**](https://lhsaia.github.io/) · Feito com dedicação para **Lelê Tattoo** · Morro Agudo – SP.
